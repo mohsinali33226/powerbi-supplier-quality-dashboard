@@ -27,6 +27,11 @@ Automotive-style Power BI dashboard to monitor supplier quality and production K
 
 ## Tools
 Power BI Desktop, DAX, Power Query
+## How to use
+1. Download the PBIX from `dashboard/`
+2. Open in Power BI Desktop
+3. Use slicers (Supplier / Plant / Line / Date) to filter results
+
 
 ## Repository Structure
 - `dashboard/` – PBIX report + exported PDF  
