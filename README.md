@@ -32,6 +32,14 @@ Power BI Desktop, DAX, Power Query
 2. Open in Power BI Desktop
 3. Use slicers (Supplier / Plant / Line / Date) to filter results
 
+## Business Use Case
+Designed for a manufacturing / automotive supplier-quality workflow:
+- Monitor defect performance vs target
+- Identify worst suppliers (Top-N by PPM)
+- Detect dominant defect types and production-line bottlenecks
+- Support QA actions (prioritization for corrective actions and supplier follow-up)
+
+
 
 ## Repository Structure
 - `dashboard/` – PBIX report + exported PDF  
